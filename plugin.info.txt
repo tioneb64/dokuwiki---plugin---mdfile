@@ -1,0 +1,7 @@
+base   mdfile
+author Benoit
+email  benoit.thibaudeau64@gmail.com
+date   2026-11-17
+name   Mdfile (fichiers Markdown .md)
+desc   Ouvre, lit (rendu Markdown) et modifie les fichiers .md du gestionnaire de médias.
+url    https://www.dokuwiki.org/plugins
